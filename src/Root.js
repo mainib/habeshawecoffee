@@ -10,10 +10,10 @@ import Contact from './pages/contact';
 import "./styles/index.css";
 
 export default class Root extends Component {
+    state({})
     changeBackGround(){
 
     }
-
     render(){
         return  <HashRouter>
                     <Fragment>
